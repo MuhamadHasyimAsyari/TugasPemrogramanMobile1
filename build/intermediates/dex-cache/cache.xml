@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mymac/AndroidStudioProjects/ResepMakanan2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mymac/AndroidStudioProjects/ResepMakanan2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a71d932cf732e99375ad258ed5cbb6beac45f161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymac/AndroidStudioProjects/ResepMakanan2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b6fbc7c994e9f5bd9d73d17281f71de043e4ab2">
+        <dex dex="/Users/mymac/AndroidStudioProjects/ResepMakanan2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e85ea005a9742f30e8e2da3399675c786b23facc/classes.dex" />
+    </item>
+
+</items>
